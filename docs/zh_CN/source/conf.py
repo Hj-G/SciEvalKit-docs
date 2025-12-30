@@ -8,8 +8,8 @@
 
 source_encoding = 'utf-8-sig'
 project = 'SciEvalKit'
-copyright = '2025, HengjianGao'
-author = 'HengjianGao'
+copyright = '2025, SciEvalKit'
+author = 'SciEvalKit'
 release = '0.1.1'
 
 # -- General configuration ---------------------------------------------------
