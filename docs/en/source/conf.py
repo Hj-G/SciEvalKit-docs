@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'SciEvalKit'
-copyright = '2025, SciEvalKit
+copyright = '2025, SciEvalKit'
 author = 'SciEvalKit'
 release = '0.1.1'
 
